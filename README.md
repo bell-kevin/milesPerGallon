@@ -3,7 +3,7 @@ Create a project that calculates miles per gallon for a given trip, and accumula
 
 Create a class named MPG that includes private instance variables for miles, gallons, and mpg, which are doubles. Add class variables for totalMiles, totalGallons, and totalMPG, which are doubles, and numTrips, which is an integer. Create a constructor which accepts 2 double parameters, one for miles, one for gallons. Inside the constructor, set the instance variables for miles and gallons, and calculate the mpg. Add to the class variables for totalMiles and TotalGallons, and increment the number of trips.  
 
-Create an instance method named displayCurrentMPG( ) which displays the MPG variable for a specific trip object. Create a class method named displayTotalMPG() which calculates and displays the overall MPG for all of the trip objects.  
+Create an instance method named displayCurrentMPG( ) which displays the MPG variable for a specific trip object. Create a class method named displayTotalMPG( ) which calculates and displays the overall MPG for all of the trip objects.  
 
 The driver class will instantiate 4 trips, display the MPG for each trip, and display the overall MPG.  
 
